@@ -2,7 +2,7 @@
 
 Serves as a utility function to get a notification on your phone whenever a project interests you.
 
-Works by
+Works by calling an IFFT webhook. You can learn about how to create an IFFT webhook that sends a notification to your phone [here](https://betterprogramming.pub/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
 
 ## Installation
 
@@ -23,7 +23,9 @@ npm install
 ```env
 email=test@email.com #Your freelancer.com email
 password=1234567 #Your freelancer.com password
+
 keywords=discord,github #Only send notifications for jobs that contain the following keywords ( Leave empty for all jobs)
+
 IFFT_KEY=SOME_RANDOM_KEY #Your IFFT key
 IFFT_EVENT_NAME=notify_me #Your IFFT event name
 ```
