@@ -42,4 +42,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/ahmedwalid/freelancer-autonotify/LICENSE.txt)
+[MIT](https://github.com/ahmedwalid05/freelancer-autonotify/blob/master/LICENSE)
