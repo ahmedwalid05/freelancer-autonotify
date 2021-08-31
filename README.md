@@ -1,6 +1,6 @@
 # Freelancer.com auto notifier
 
-Serves as a utility function to get a notification on your phone whenever a project interests you.
+Serves as a utility function to get a notification from freelancer.com on your phone for new projects that interest you.
 
 Works by calling an IFFT webhook. You can learn about how to create an IFFT webhook that sends a notification to your phone [here](https://betterprogramming.pub/how-to-send-push-notifications-to-your-phone-from-any-script-6b70e34748f6)
 
